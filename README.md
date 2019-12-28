@@ -27,3 +27,7 @@ You can be thrown out of this system similar to exile.
 
 ## Faith Book : Revision
 It is like an oxford dictionary that is revised every year.
+
+## Universal Basic Income & Donation
+10% of money earned every month should be donated to books of Universal.
+A term plan and annuity will be bought for you.
