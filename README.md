@@ -1,11 +1,4 @@
 # Universal Religion
-Religion
-
-https://thoughtcatalog.com/john-w-howell/2013/05/how-to-start-your-own-religion/
-
-https://www.instructables.com/id/How-To-Start-Your-Own-Religion/
-
-Religion is Universal
 
 ## Beliefs
 We are all universal machines capable of creating new universal machines.
@@ -41,9 +34,13 @@ Your universal id will be linked to passport and social security number.
 ## Univeral Book of Fath
 It is like an oxford dictionary that is revised every year.
 
-The rules and regulation should keep changing but ensure to put the entry limit to x % of world's population (also x% limits on state population, district population, tehsil pupulation, village population).
+The rules and regulation should keep changing.
 
-What is the fun if anybody can join it and become? Look at the limits again.
+It has to be reperesented by a head at world level, country level, state level, district level, tehsil level, village level, locality level (each pin code). India itself has roughly 20K pin codes.
+
+All these will be honorary position for a fixed tenure of 4 years.
+
+You can be in the lead position only from age of x (minimum age for recruitment in govt department) to y (supper annuation age for govt servant).
 
 ## Universal Income : through donation
 10% of money earned every month should be donated to books of Universal.
