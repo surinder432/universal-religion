@@ -1,2 +1,6 @@
 # universal-religion
 Religion
+
+https://thoughtcatalog.com/john-w-howell/2013/05/how-to-start-your-own-religion/
+
+https://www.instructables.com/id/How-To-Start-Your-Own-Religion/
