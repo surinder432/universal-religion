@@ -1,5 +1,11 @@
 # Universal Religion
 
+## Why new religion ?
+
+There is a problem with existing popular religions. Most are not updated on quarter, annual basis.
+
+There is a need of a new religion where beliefs are revised constantly every year.
+
 ## Beliefs
 We are all universal machines capable of creating new universal machines.
 
@@ -9,6 +15,8 @@ Universal super power (USP) controls all the creations.
 
 ## Ceremonies
 None (as of now)
+
+The marriage is called Unified ceremony. X unified Y.
 
 ## Rituals
 None (as of now)
@@ -47,4 +55,15 @@ You can be in the lead position only from age of x (minimum age for recruitment 
 
 ## Universal Support
 Provide health plan, term plan and annuity pension plan for its members.
+
+## Caste system
+
+It is a casteless society. There is only one caste in Universal religion and it is called Unifier. 
+It is to easily identify folks of similar faith like jain.
+
+
+## Easy targets
+
+Inter faith marriage couples.
+
 
