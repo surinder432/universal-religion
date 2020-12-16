@@ -62,8 +62,6 @@ It is a casteless society. There is only one caste in Universal religion and it 
 It is to easily identify folks of similar faith like jain.
 
 
-## Easy targets
 
-Inter faith marriage couples.
 
 
