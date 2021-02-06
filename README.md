@@ -2,9 +2,17 @@
 
 ## Issues with current religions
 
-There is a problem with existing popular religions. Most are not updated on quarter, annual basis.
+Most popular religions are not updated on quarter, annual basis and it leads to issues.
 
 There is a need of a new religion where beliefs are revised constantly every year.
+
+## Issues with half-caste
+
+Love marriages and inter-caste marriages have been happening for ages but somehow future
+
+generations are not aware of it as the kid only carry caste of their father.
+
+This issue needs a quick fix and we need to create a universal race/caste.
 
 ## Beliefs
 
